@@ -1,0 +1,4 @@
+pyautogen[autobuild]
+streamlit
+yfinance
+beautifulsoup4
